@@ -1,0 +1,53 @@
+.card-img-top{
+    display: block;
+    margin: 0 auto;
+width: 20%;
+
+}
+.nptext{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card{
+    text-align: center;
+    color: blueviolet;
+}
+p{
+    color: blueviolet;
+    
+}
+.card-title{
+    font-family: 'Permanent Marker', cursive;
+}
+.navbar-brand{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: xx-large;
+}
+h3{
+    font-family: 'Permanent Marker', cursive;
+}
+p{
+    font-family: 'Shadows Into Light', cursive;
+}
+ul{
+    font-family: 'Permanent Marker', cursive;
+}
+.dropdown-item{
+    font-family: 'Shadows Into Light', cursive;
+}
+#ss{
+    margin-top
+}
+header{
+    background-color: #212529;
+}
+.img2 {
+
+}
+h3{
+    text-align:;
+}
+.texting{
+text-align: center;
+}
